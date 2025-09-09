@@ -47,7 +47,6 @@ PINECONE_ENVIRONMENT = "us-west1-gcp-free" # or your Pinecone env
 streamlit run streamlit.py
 ```
 
-This will start a local server. Open the link shown in the terminal (usually http://localhost:8501) in your browser.
 
 
 
